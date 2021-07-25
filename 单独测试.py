@@ -60,5 +60,5 @@ class crackAccount():
         self.crack()
 if __name__ == '__main__':
 
-    aobj=crackAccount("1150169485","6545qwas!1234","https://cf.qq.com/cp/a20210619hero/index.shtml")
+    aobj=crackAccount("账号","密码","https://cf.qq.com/cp/a20210619hero/index.shtml")
     aobj.run()
